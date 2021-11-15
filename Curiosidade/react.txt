@@ -1,0 +1,4 @@
+O que é Hooks: Hooks em vez de classes
+https://pt-br.reactjs.org/docs/hooks-state.html
+
+useEffect, useState, useState

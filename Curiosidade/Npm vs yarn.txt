@@ -1,0 +1,34 @@
+Gerenciadores de pacotes:por exemplo " yarn add qrcode " -> modulo de qrcode para gerar qrcode
+apos colocar esse modulo, é possivel importar o qrcode
+
+https://www.alura.com.br/artigos/npm-vs-yarn
+
+https://pt.stackoverflow.com/questions/238580/quais-as-diferenças-entre-o-npm-e-o-yarn
+
+
+Yarn install
+https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable
+
+
+Npm
+https://www.npmjs.com
+
+
+erro de executar o yarn start ou npm start pelo powershell no terminal do vscode:
+https://pt.stackoverflow.com/questions/220078/o-que-significa-o-erro-execução-de-scripts-foi-desabilitada-neste-sistema
+
+https://docs.microsoft.com/pt-br/troubleshoot/azure/active-directory/cannot-run-scripts-powershell
+
+https://www.schoolofnet.com/forum/topico/yarn-nao-funciona-2509
+
+
+error Couldn't find a package.json file in:
+https://www.ti-enxame.com/pt/node.js/npm-install-da-erro-nao-e-possivel-encontrar-um-arquivo-package.json/1047136357/
+
+https://qastack.com.br/programming/9023672/how-do-i-resolve-cannot-find-module-error-using-node-js
+
+https://www.ti-enxame.com/pt/javascript/nao-foi-possivel-encontrar-um-arquivo-necessario-em-yarn-start/836922529/
+
+Recomendado:
+Instalar yarn antes de executar a criação do projeto
+

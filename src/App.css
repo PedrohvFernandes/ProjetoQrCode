@@ -1,0 +1,27 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input{
+  width: 50%;
+  height: 50px;
+  font-size: 1.2rem;
+  padding-left: 10px;
+  border: 1px black solid;
+  border-radius: 10px;
+  margin-top:5px;
+}
+
+input:hover, input:focus{
+  border: 1px blue solid;
+  background: rgb(228, 225, 225);
+  outline: none;
+}
+
+@media(max-width:999px){
+  input{
+    font-size: 0.8rem;
+  }
+}
