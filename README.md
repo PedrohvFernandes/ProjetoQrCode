@@ -1,0 +1,2 @@
+# ProjetoQrCode
+Gerador de QrCode
