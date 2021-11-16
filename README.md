@@ -3,7 +3,7 @@
 ### Este repositório contem um projeto feito em React, que gera QRCodes a partir de textos no input, que podem ser lidos por alguma camera.
 
 # Demonstração:
-![Thumbnail:](https://github.com/PedrohvFernandes/qrcode-generator/blob/main/Teste%20da%20aplica%C3%A7%C3%A3o/Testando%20QRCODE.gif)
+![Thumbnail:](https://github.com/PedrohvFernandes/qrcode-generator/blob/main/Arquivos%20externos/Teste%20da%20aplica%C3%A7%C3%A3o/Testando%20QRCODE.gif?raw=true)
 
 # Tecnologias usadas no projeto:
 <p align="center">
