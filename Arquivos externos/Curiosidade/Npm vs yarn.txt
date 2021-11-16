@@ -14,7 +14,7 @@ Npm
 https://www.npmjs.com
 
 
-erro de executar o yarn start ou npm start pelo powershell no terminal do vscode:
+erro de executar o yarn start ou npm start pelo powershell no terminal do vscode para executar o projeto:
 https://pt.stackoverflow.com/questions/220078/o-que-significa-o-erro-execução-de-scripts-foi-desabilitada-neste-sistema
 
 https://docs.microsoft.com/pt-br/troubleshoot/azure/active-directory/cannot-run-scripts-powershell
